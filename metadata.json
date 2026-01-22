@@ -1,0 +1,5 @@
+{
+  "name": "PM Weekly Status Dashboard Generator",
+  "description": "An AI-powered dashboard assistant for Project Managers to transform Jira/CSV data into executive-ready status reports with ease.",
+  "requestFramePermissions": []
+}
